@@ -1,1 +1,1 @@
-# Laba #4
+# Huffman tree
